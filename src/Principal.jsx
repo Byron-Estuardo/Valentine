@@ -1,11 +1,11 @@
 import { useEffect, useState } from "react";
 import { useNavigate } from "react-router-dom";
-import gif1 from "./assets/1.gif";
-import gif2 from "./assets/2.gif";
-import gif3 from "./assets/3.gif";
-import gif4 from "./assets/4.gif";
-import gif5 from "./assets/5.gif";
-import gif6 from "./assets/7.gif";
+import gif1 from "/1.gif";
+import gif2 from "/2.gif";
+import gif3 from "/3.gif";
+import gif4 from "/4.gif";
+import gif5 from "/5.gif";
+import gif6 from "/7.gif";
 
 export default function Page() {
   const gifs = [

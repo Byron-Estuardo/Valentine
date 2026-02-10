@@ -19,7 +19,7 @@
   -moz-osx-font-smoothing: grayscale;
 }
 body {
-  background: url("./assets/aa.webp");
+  background: url("/aa.webp");
   background-position: center;
   background-size: cover;
   background-attachment: fixed;
